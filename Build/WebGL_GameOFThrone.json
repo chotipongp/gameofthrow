@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebGL_GameOFThrone.data.unityweb",
+"asmCodeUrl": "WebGL_GameOFThrone.asm.code.unityweb",
+"asmMemoryUrl": "WebGL_GameOFThrone.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL_GameOFThrone.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
